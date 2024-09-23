@@ -7,10 +7,11 @@ Existem 4 tipos de computação em nuvem porém na prova de certificação AZ-90
 
 ### Modelos de Nuvem
 #### Nuvem Privada
+<div align=center>
+ 
+ <img src="https://github.com/user-attachments/assets/1dfc41f6-5066-42f3-a86c-e245752b3e1a" width=400/>)
 
-<!-- imagem -->
-
-
+</div>
 
 > Características
 * As organizações criam um ambiente em nuvem em seu datacenter 
@@ -19,7 +20,13 @@ Existem 4 tipos de computação em nuvem porém na prova de certificação AZ-90
 
 *Ambiente 100% on-premise (são aqueles estruturados dentro do espaço físico de uma empresa ou instituição). Ele está apenas disponivel para a minha empresa* 
 ---
-#### Nuvem Privada
+#### Nuvem Pública
+
+<div align=center>
+ 
+ <img src="https://github.com/user-attachments/assets/61b7e72a-bdc2-4a5a-b5d7-a164a1e81fcb" width=400/>)
+
+</div>
 
 <!-- imagem -->
 
@@ -33,9 +40,11 @@ Existem 4 tipos de computação em nuvem porém na prova de certificação AZ-90
 
 ---
 #### Nuvem Híbrida
+<div align=center>
+ 
+ <img src="https://github.com/user-attachments/assets/33023d51-271d-405a-a43b-5fe9aa4a99db" width=400/>)
 
-<!-- imagem -->
-
+</div>
 
 > Características
 * Combina nuvens públicas e privadas para permitr que os aplicativos sejam executados no local mais adequado.
@@ -81,16 +90,38 @@ Existem 4 tipos de computação em nuvem porém na prova de certificação AZ-90
   * A cobrança é feita com base no seu uso real
 
 
+No primeiro laboratório, tivemos uma visão geral da plataforma de nuvem Microsoft Azure.
 
-No primeiro laboratório, realizamos uma visão geral da plataforma de nuvem Microsoft Azure.
+<div align=center>
+ 
+ <img src="https://github.com/user-attachments/assets/8d3a3487-b31a-4ab8-b404-491342d4c47b" width=400/>)
+
+</div>
+
 
 * Exploramos onde ajustar as configurações de idioma e de aparência da interface:
 
-<!-- Inserir imagem de configurações de aparência --> <!-- Inserir imagem de configurações de idioma -->
+<div align=center>
+ 
+ <img src="https://github.com/user-attachments/assets/11fa8242-5ddc-4893-8a8f-413f22cbcfc5" width=400/>)
+
+</div>
+<div align=center>
+ 
+ <img src="https://github.com/user-attachments/assets/72212850-9d66-4988-b04d-8b5d14f463f9" width=400/>)
+
+</div>
 
 * Também conhecemos a aba Todos os serviços, que permite acessar e localizar facilmente os recursos organizados por categoria:
-<!-- Inserir imagem da aba "Todos os serviços" -->
+<div align=center>
+ 
+ <img src="https://github.com/user-attachments/assets/5eefaa48-b45e-442b-ad73-73862dcae132" width=400/>)
+
+</div>
 
 * Por fim, identificamos recursos que estão em versão prévia, indicando funcionalidades ainda em fase de testes e desenvolvimento.
+<div align=center>
+ 
+ <img src="https://github.com/user-attachments/assets/67d58c9c-214a-4ec2-bdfa-f051892a3218" width=400/>)
 
-<!-- imagem disso -->
+</div>
