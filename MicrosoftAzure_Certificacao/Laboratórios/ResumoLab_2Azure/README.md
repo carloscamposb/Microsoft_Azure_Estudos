@@ -1,10 +1,11 @@
-## Microsoft Azure - Criando máquinas Virtuais na Azure
+## Microsoft Azure - Criando máquinas Virtuais na Azure ☁️
 ---
-Benefícios da Nuvem
+### Benefícios da Nuvem 
 
 Quando você está implantando um aplicativo, um serviço ou qualquer recurso de TI, é importante que os recursos estejam disponíveis quando necessário. A alta disponibilidade se concentra em garantir a disponibilidade máxima, independentemente de interrupções ou eventos que possam ocorrer.
 
 Ao arquitetar sua solução, você precisará considerar as garantias de disponibilidade do serviço. O Azure é um ambiente de nuvem altamente disponível com garantias de tempo de atividade, dependendo do serviço. Essas garantias fazem parte dos **SLAs (Contratos de Nível de Serviço)**.
+
 ---
 ### Benefícios da Nuvem 
 
@@ -12,18 +13,29 @@ Ao arquitetar sua solução, você precisará considerar as garantias de disponi
 
 SLAs representam para a Azure a porcentagem relacioonada a disponibilidade de serviços ou aplicativos. Essa disponibilidade é conhecida como uptime. Se o programa esta sempre disponivel para uso, podemos dizer que é 100%. Serviços indisponiveis -down time . seriviços com 99% de disponibilidade pode apresentar uma indisponibilidade de até 1.6horas por semana ou 7.2 h por mês e ainda sim, ser um serviço disponível.e 99.9% disponivel - pode ficar indisponivel apenas 10 min por semana ou 43.2 minutos por mês. Quanto mais 9 após o ponto, menor o tempo de inatividade. Se não houver retorno dos serviços dentro do prazo estabelecido, a Microsoft entrega a seu cliente créditos extras (nunca dinheiro).
 
-
-<!-- imagem dos 9 -->
-
-<!-- imagem 99 -->
-<!-- imagem 99.9 -->
+<div align=center>
+  <img src="https://github.com/user-attachments/assets/04cc8126-6657-4dd7-aba8-ba0a854719cd" width=400 />
+</div>
+<div align=center>
+  <img src="https://github.com/user-attachments/assets/52589952-885a-45e8-b15f-ecc3bcda9286" width=400 />
+</div>
+<div align=center>
+  <img src="https://github.com/user-attachments/assets/db12bea1-f7f3-4326-ab33-6ff671fa27a9" width=600 />
+</div>
 
 #### 2) Escalabilidade
 
 Refere-se a capacidade de ajustar os recursos para atender à demandas. Ou seja você pode escalar adicionando mais recursos para lidae melhor com o aumento da demanda. Além disso você só paga pelo necessário por aquele serviço.Como nuvem é um modelo baseado em consumo, você só paga o que usa. Se a demanda cair você poderá reduzir seus recursos e, assim, reduzir os custos. A escala aqui é **vertical** , você pode escalar verticalmente adicionando mais CPUs ou RAM à sua máquina virtual caso precise de mais processamento 
 
 Existe uma diferença entre escalar vertical e escalar horizontal:
-<!-- imagens -->
+<div align=center>
+  <img src="https://github.com/user-attachments/assets/7fad19e9-7b51-4e66-bfea-680c07f26d25" width=600 />
+</div>
+<div align=center>
+  <img src="https://github.com/user-attachments/assets/73cf3055-6710-4b0a-9292-7a7a6fc57f01" width=600 />
+</div>
+
+
 
 #### 3) Elasticidade
 
