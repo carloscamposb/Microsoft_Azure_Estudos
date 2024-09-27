@@ -151,4 +151,3 @@ Aqui vamos colocar a região no Brasil para mostrar que os recursos podem estar 
 <img src="https://github.com/user-attachments/assets/d7d16d2f-c53c-4870-aa4a-d6d1daf1aaf9" width=600/>
 </div>
 
-<!-- imagens -->
